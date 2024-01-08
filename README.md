@@ -1,3 +1,15 @@
-# Elite101
+# Introduction
 
-This is a file explaining the contents for the Elite 101 Course.
+
+This is a repository created by *Garima*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
